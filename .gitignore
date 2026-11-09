@@ -1,0 +1,11 @@
+node_modules/
+sessions/
+.env
+*.zip
+settings.json
+database.sqlite
+database.sqlite-shm
+database.sqlite-wal
+*.mp4
+*.webp
+*.mp3
